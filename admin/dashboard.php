@@ -177,7 +177,7 @@ if ($_SESSION['role'] != "admin") {
         <hr class="border-t border-white/10 mt-6 mb-4 w-full max-w-4xl mx-auto" />
 
         <div class="mt-2 py-4 flex-col text-center text-xs text-slate-400 tracking-wide">
-            <p class="text-md font-medium">&copy; 2026 <span class="text-slate-500">Tim rasyid_ux</span></p>
+            <p class="text-md font-medium">&copy; 2026 <span class="text-slate-500">Zunanda</span></p>
         </div>
         </div>
     </footer>

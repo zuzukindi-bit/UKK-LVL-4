@@ -39,7 +39,7 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `username`, `password`, `role`) VALUES
-(1, 'indra', '$2y$10$BzuSLI.7MyqPu88/4C3wKua0197bZgb8A7CwMh0l.JNC1k4AvnPyO', 'user'),
+(1, 'zunanda', '$2y$10$BzuSLI.7MyqPu88/4C3wKua0197bZgb8A7CwMh0l.JNC1k4AvnPyO', 'user'),
 (2, 'admin', '$2y$10$YzpzyTEshZ7mMBSy4/bDFOFjwV/MXiO9dDLPEWbhgDkb82pzSpTBe', 'admin');
 
 --
